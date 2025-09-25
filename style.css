@@ -1,0 +1,40 @@
+*{
+    font-family: Arial, Helvetica, sans-serif
+}
+.hero{
+    background-color: #000038;
+    color: white;
+    justify-items: center;
+    align-content: center;
+    text-align: center;
+}
+.nav-bar{
+    justify-content: space-between; 
+    align-items: center;
+    display: flex;
+    padding-left: 20px;
+    margin-top: 10px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    background-color: #000038;
+}
+.sub-hero{
+    padding-top: 1000px;
+}
+.hero img{
+    width: 300px;
+}
+
+.sub-hero2 p{
+    font-size: 12px;
+    color: #e09900;
+}
+.btn2 button{
+    background-color:#e09900 ;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 15px;
+    font-size: 16px;
+}
