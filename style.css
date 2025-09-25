@@ -4,8 +4,6 @@
 .hero{
     background-color: #000038;
     color: white;
-    justify-items: center;
-    align-content: center;
     text-align: center;
 }
 .nav-bar{
@@ -19,8 +17,18 @@
     right: 0;
     background-color: #000038;
 }
+.nav-img{
+    width: 160px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
 .sub-hero{
     padding-top: 1000px;
+}
+.sub-nav-text{
+    display: flex;
+    gap: 30px;
 }
 .hero img{
     width: 300px;
